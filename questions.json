@@ -1,0 +1,389 @@
+{
+  "heading": "Subject and Predicate",
+  "topics": [
+    {
+      "heading": "Subject and Predicate",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "A subject can be just one word.",
+          "options": [
+            {
+              "text": "Yes",
+              "image": "./assests/images/option/1.jpg"
+            },
+            {
+              "text": "No",
+              "image": "./assests/images/option/2.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Subjects can be one word, like 'Dogs' in 'Dogs bark.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: <br> In 'The _____ meows loudly,' <br> the word that completes the subject is:",
+          "options": [
+            {
+              "text": "dog",
+              "image": "./assests/images/option/3.jpg"
+            },
+            {
+              "text": "cat",
+              "image": "./assests/images/option/4.jpg"
+            },
+            {
+              "text": "bird",
+              "image": "./assests/images/option/5.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Cats are known for meowing, so 'cat' completes the subject logically."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence has <br> the same predicate as <br>'The ball bounces high'?",
+          "options": [
+            {
+              "text": "The ball rolls far."            },
+            {
+              "text": "The balloon flies high."            },
+            {
+              "text": "The rabbit bounces high."            }
+          ],
+          "answer": 2,
+          "explanation": "Both sentences have 'bounces high' as the predicate."
+        },
+        {
+          "questionNo": 4,
+          "question": "In 'Colourful rainbows appear,' what's the subject? <br> <img width='150px' src='./assests/images/question/4.jpg'>",
+          "options": [
+            {
+              "text": "Colourful",
+              "image": "./assests/images/option/9.jpg"
+            },
+            {
+              "text": "rainbows",
+              "image": "./assests/images/option/10.jpg"
+            },
+            {
+              "text": "appear",
+              "image": "./assests/images/option/11.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The sentence is about rainbows, so 'rainbows' is the subject."
+        },
+        {
+          "questionNo": 5,
+          "question": "Complete the spelling: <br> T _ A _ N  <br> <img width='150px' src='./assests/images/question/5.jpg'>",
+          "options": [
+            {
+              "text": "RI",
+              "image": "./assests/images/option/12.jpg"
+            },
+            {
+              "text": "RE",
+              "image": "./assests/images/option/13.jpg"
+            },
+            {
+              "text": "ER",
+              "image": "./assests/images/option/14.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The complete spelling is T-R-A-I-N. It is a vehicle that runs on a track."
+        },
+        {
+          "questionNo": 6,
+          "question": "In 'Quietly, the mouse squeaks,'<br> what's the predicate? <br> <img width='150px' src='./assests/images/question/6.jpg'>",
+          "options": [
+            {
+              "text": "Quietly",
+              "image": "./assests/images/option/15.jpg"
+            },
+            {
+              "text": "the mouse",
+              "image": "./assests/images/option/16.jpg"
+            },
+            {
+              "text": "squeaks",
+              "image": "./assests/images/option/17.jpg"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Squeaks' tells us what the mouse does, so it's the predicate."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word is the subject in <br> 'Brightly glows the firefly'? <br> <img width='150px' src='./assests/images/question/7.jpg'>",
+          "options": [
+            {
+              "text": "Brightly",
+              "image": "./assests/images/option/18.jpg"
+            },
+            {
+              "text": "glows",
+              "image": "./assests/images/option/19.jpg"
+            },
+            {
+              "text": "firefly",
+              "image": "./assests/images/option/20.jpg"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Even though it's at the end, 'firefly' is what the sentence is about."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word rhymes with “Pain”? <br> <img width='150px' src='./assests/images/question/8.jpg'>",
+          "questionSound":"./assests/sounds/json/pain.mp3",
+          "options": [
+            {
+              "text": "Five",
+              "image": "./assests/images/option/21.jpg",
+              "sound": "./assests/sounds/json/five.mp3"
+
+            },
+            {
+              "text": "Crow",
+              "image": "./assests/images/option/22.jpg",
+              "sound": "./assests/sounds/json/crow.mp3"
+
+            },
+            {
+              "text": "Train",
+              "image": "./assests/images/option/23.jpg",
+              "sound": "./assests/sounds/json/train.mp3"
+
+            },
+            {
+              "text": "Swing",
+              "image": "./assests/images/option/24.jpg",
+              "sound": "./assests/sounds/json/swing.mp3"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": "“Pain” and “Train” rhyme, as both of these words end with “ain” and sound the same at the end."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank: <br> In '_____ swim fast,'<br> the word that completes the subject is: <br> <img width='150px' src='./assests/images/question/9.jpg'>",
+          "options": [
+            {
+              "text": "The",
+              "image": "./assests/images/option/25.jpg"
+            },
+            {
+              "text": "Fish",
+              "image": "./assests/images/option/26.jpg"
+            },
+            {
+              "text": "fast",
+              "image": "./assests/images/option/27.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We need a subject that can swim, and fish fit this description."
+        },
+        {
+          "questionNo": 10,
+          "question": "In 'The tall giraffe eats leaves,' <br> what's the subject? <br> <img width='150px' src='./assests/images/question/10.jpg'>",
+          "options": [
+            {
+              "text": "The tall giraffe"
+            },
+            {
+              "text": "tall"
+            },
+            {
+              "text": "leaves"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The entire phrase 'The tall giraffe' is what the sentence is about."
+        },
+        {
+          "questionNo": 11,
+          "question": "What's the predicate in <br> 'The hungry bear growls'? <br> <img width='150px' src='./assests/images/question/11.jpg'>",
+          "options": [
+            {
+              "text": "The hungry bear"
+            },
+            {
+              "text": "hungry"
+            },
+            {
+              "text": "growls"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Growls' tells us what the bear does, so it's the predicate."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank: <br> In 'The aeroplane _____ in the sky,' the word that completes the predicate is: <br> <img width='150px' src='./assests/images/question/12.jpg'>",
+          "options": [
+            {
+              "text": "is",
+              "image": "./assests/images/option/34.jpg"
+            },
+            {
+              "text": "flies",
+              "image": "./assests/images/option/35.jpg"
+            },
+            {
+              "text": "big",
+              "image": "./assests/images/option/36.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Flies' tells us what the aeroplane does, completing the predicate."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence has a different subject?",
+          "options": [
+            {
+              "text": "The cat purrs."
+            },
+            {
+              "text": "The cat sleeps."
+            },
+            {
+              "text": "The dog barks."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence has 'The dog' as its subject, while the others have 'The cat.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "In 'Happy children sing songs,' <br> what's the predicate?",
+          "options": [
+            {
+              "text": "Happy children"
+            },
+            {
+              "text": "sing"
+            },
+            {
+              "text": "sing songs"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Sing songs' tells us what the children do, so it's the complete predicate."
+        },
+        {
+          "questionNo": 15,
+          "question": "What's the subject in <br> 'On the branch sits a bird'? <br> <img width='150px' src='./assests/images/question/15.jpg'>",
+          "options": [
+            {
+              "text": "On the branch"
+            },
+            {
+              "text": "sits"
+            },
+            {
+              "text": "a bird"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The sentence is about the bird, even though it comes at the end."
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank: <br> The subject in '_____ shine at night' is: <br> <img width='150px' src='./assests/images/question/16.jpg'>",
+          "options": [
+            {
+              "text": "The",
+              "image": "./assests/images/option/46.jpg"
+            },
+            {
+              "text": "Stars",
+              "image": "./assests/images/option/47.jpg"
+            },
+            {
+              "text": "shine",
+              "image": "./assests/images/option/48.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We need something that shines at night to be the subject, and stars fit this description."
+        },
+        {
+          "questionNo": 17,
+          "question": "In 'The big elephant trumpets loudly,' <br> what's the predicate? <br> <img width='150px' src='./assests/images/question/17.jpg'>",
+          "options": [
+            {
+              "text": "The big elephant"
+            },
+            {
+              "text": "trumpets"
+            },
+            {
+              "text": "trumpets loudly"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Trumpets loudly' tells us what the elephant does, so it's the complete predicate."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence has the same subject as <br> 'The flower blooms'?",
+          "options": [
+            {
+              "text": "The tree grows."
+            },
+            {
+              "text": "The sun shines."
+            },
+            {
+              "text": "The flower wilts."
+            }
+          ],
+          "answer": 2,
+          "explanation": "Both sentences have 'The flower' as the subject."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: <br> In 'The _____ melts quickly,' the word that completes the subject is: <br> <img width='150px' src='./assests/images/question/19.jpg'>",
+          "options": [
+            {
+              "text": "sun",
+              "image": "./assests/images/option/55.jpg"
+            },
+            {
+              "text": "ice",
+              "image": "./assests/images/option/56.jpg"
+            },
+            {
+              "text": "quickly",
+              "image": "./assests/images/option/57.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We need something that can melt to complete the subject, and ice fits this description."
+        },
+        {
+          "questionNo": 20,
+          "question": "In 'Loudly roars the lion,' <br> what's the predicate? <br> <img width='150px' src='./assests/images/question/20.jpg'>",
+          "options": [
+            {
+              "text": "Loudly roars"
+            },
+            {
+              "text": "Loudly"
+            },
+            {
+              "text": "the lion"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Loudly roars' tells us what the lion does, so it's the predicate."
+        }
+      ]
+    }
+  ]
+}
